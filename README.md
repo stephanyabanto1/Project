@@ -6,14 +6,12 @@
     }
       .text{
         color: black;
-      }
-      th{
-        style="border:2px solid Tomato;
-      }
-      #hp{
-        float: right;    
-        margin: 0 0 0 20px;
-      }
+           }
+    
+     img {
+  border:10px solid green;
+          }
+
     </style>
   </head>
   <title> Hello </title>
@@ -192,12 +190,18 @@
         <td> Anytime </td>
       </tr>
       </table>
-      <h2 style = "color:blue"> Pictures of Artist </h2>
-       <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Selena_Quintanilla-P%C3%A9rez.jpg" style="width:150px;height:150px;" alt="Selena"> <b>Selena</b>
+      
+      <hr>
+      <h2 style = "color:blue"> Pictures of Artists: </h2>
+       <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Selena_Quintanilla-P%C3%A9rez.jpg" style="width:150px;height:150px;" alt="Selena" > <b>Selena</b>
       <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cavetown_talking_with_Rimmers_Music_%282%29_%28cropped%29.png/440px-Cavetown_talking_with_Rimmers_Music_%282%29_%28cropped%29.png" "width=150px height=150px"><b> Cavetown</b>
       <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Morty_Smith.png" style="width:150px;height:200px;"><b>Morty </b>
       <img src = "https://upload.wikimedia.org/wikipedia/en/a/a6/Rick_Sanchez.png" style="width:150px;height:200px;"><b>Rick Sanchez</b>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ALTer_EGO_1_18_2020_%2850740816801%29.jpg/340px-ALTer_EGO_1_18_2020_%2850740816801%29.jpg"  style="width:170px;height:170px;"> <b> Billie Ellish </b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ALTer_EGO_1_18_2020_%2850740816801%29.jpg/340px-ALTer_EGO_1_18_2020_%2850740816801%29.jpg" style="width:150px;height:200px;"> <b> Billie Ellish </b>
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Clairo_%40_El_Rey_04_11_2019_%2848498299611%29.jpg/340px-Clairo_%40_El_Rey_04_11_2019_%2848498299611%29.jpg" style="width:150px;height:200px;"> <b>Clairo </b>
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Neon_Trees_by_Jen_Rosenstein.jpg/559px-Neon_Trees_by_Jen_Rosenstein.jpg" style="width:200px;height:200px;" > <b> Neon Trees </b>
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NO_DOUBT_327b_Brian_McCauley.jpg/533px-NO_DOUBT_327b_Brian_McCauley.jpg" style = "width:300px;height:200px;" > <b> No Doubt band</b>
+      
         
       
     
